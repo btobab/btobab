@@ -1,5 +1,3 @@
-### Name
-Hi, I'm btobab.
 ### Research
 I mainly study **GAN** in CV field and **NLG**.
 ### Recently
