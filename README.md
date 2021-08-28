@@ -4,4 +4,6 @@
 ### Research
 I mainly study **NLG** and **GAN**.
 ### Recently
-I'm learning **formula derivation** of ML ^_^
+I'm learning **formula derivation** of ML
+
+**Follow me if interested**
