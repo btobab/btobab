@@ -4,6 +4,4 @@
 ### Research
 I mainly study **NLG** and **GAN**.
 ### Recently
-I'm learning **formula derivation** of ML
-
-**Follow me if interested**
+I'm learning **formula derivation** of [ML](https://github.com/btobab/Machine-Learning-notes)
